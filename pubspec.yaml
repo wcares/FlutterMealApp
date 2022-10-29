@@ -1,4 +1,4 @@
-name: flutter_complete_guide
+name: meal_app
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -28,7 +28,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
+  flutter_lints: ^2.0.0
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
 
