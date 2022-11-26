@@ -1,6 +1,8 @@
 # meal_app
 
-A new Flutter project.
+This App is created to demonstrate how to use better navigation through one screens to another.
+Multiple screens has been created and better ways of navigation to those screens are demonstrated
+in this app.
 
 ## Getting Started
 
